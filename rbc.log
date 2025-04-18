@@ -19,7 +19,7 @@ Finding the optimal block decomposition of the dynamic model...
   the largest simultaneous block has 7 equation(s)
                                  and 7 feedback variable(s).
 Preprocessing completed.
-Preprocessing time: 0h00m00s.
+Preprocessing time: 0h00m01s.
 
 STEADY-STATE RESULTS:
 
@@ -45,12 +45,12 @@ The rank condition is verified.
 --------------------------------------------------------
 MODEL SIMULATION:
 
-Iter: 1,	 err. = 0.0603303,	 time = 0.060285
-Iter: 2,	 err. = 0.012928,	 time = 0.004991
-Iter: 3,	 err. = 3.13756e-05,	 time = 0.003809
-Iter: 4,	 err. = 3.95948e-11,	 time = 0.003869
+Iter: 1,	 err. = 0.0603303,	 time = 0.116555
+Iter: 2,	 err. = 0.012928,	 time = 0.004503
+Iter: 3,	 err. = 3.13756e-05,	 time = 0.004391
+Iter: 4,	 err. = 3.95948e-11,	 time = 0.004621
 
-Total time of simulation: 0.08933.
+Total time of simulation: 0.149716.
 --------------------------------------------------------
 
 
@@ -60,14 +60,13 @@ Perfect foresight solution found.
 --------------------------------------------------------
 MODEL SIMULATION:
 
-Iter: 1,	 err. = 3.95948e-11,	 time = 0.012825
+Iter: 1,	 err. = 3.95948e-11,	 time = 0.012121
 
-Total time of simulation: 0.018231.
+Total time of simulation: 0.0174.
 --------------------------------------------------------
 
 
 Perfect foresight solution found.
 
-Total computing time : 0h00m09s
+Total computing time : 0h00m15s
 Note: 1 warning(s) encountered in the preprocessor
-Note: warning(s) encountered in MATLAB/Octave code

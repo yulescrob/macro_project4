@@ -66,6 +66,6 @@ perfect_foresight_solver;
 
 // Display the path of consumption and capital
 rplot c;
-rplot r;
+rplot y;
 rplot k;
 rplot l;
